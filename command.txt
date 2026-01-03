@@ -1,0 +1,9 @@
+#1 one time each project yto start git
+git init
+#2 ecerytime to add some thing
+git add .
+
+git commit -m "first commit"
+git branch -M main 
+git remote add origin https://github.com/Rabbani04132005/myfisrtgithub.git
+git push -u origin main
